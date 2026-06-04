@@ -1,1 +1,5 @@
+[build]
+builder = "NIXPACKS"
 
+[deploy]
+startCommand = "python servidor.py"
